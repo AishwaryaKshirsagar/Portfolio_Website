@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Aishwarya Kshirsagar</title>
+    <link>post/</link>
+    <description>Recent content in Projects on Aishwarya Kshirsagar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BankBot Using NLP</title>
+      <link>post/chapter2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>post/chapter2/</guid>
+      <description>Introduction In this report, I have explained the implementation of the code and methods that I have used to build a BankBot.
+Summary So What is a Chat Bot or to be specific a Bank Bot? A chatbot or chatterbot is a software application used to conduct an online chat conversation via text or text-to-speech. Chatbots are used in dialog systems for various purposes including customer service, request routing, or information gathering.</description>
+    </item>
+    
+    <item>
+      <title>Covid 19 Spread Prevention</title>
+      <link>post/chapter-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>post/chapter-5/</guid>
+      <description>Event - India Academia Connect and Nvidia AI Hackathon This Project is a part of NVIDIA and Academia AI Hackathon which was held in October, 2021.
+Goal → COVID-19 Spread Prevention Training Score → Accuracy 98% Team → Data Pirates🏴‍☠️ Our Team was ranked 7th in this event all over India. Problem Description: COVID-19 Spread Prevention using Computer Vision and Deep Learning
+Social Distance Detection- Social distancing is deliberately increasing the physical space between people to avoid spreading illness.</description>
+    </item>
+    
+    <item>
+      <title>Text Similarity Detection using NLP and Deep Learning</title>
+      <link>post/chapter-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>post/chapter-6/</guid>
+      <description>Introduction In this report, I have explained the implementation of the code and methods that I have used to find similarity between the texts in the two columns in an unsupervised manner.
+Summary The dataset provided includes Unique Id, and the two columns of texts. Similarity scores were to be calculated between the texts of columns 1 and 2. Since the labels for the texts were not provided. I opted for unsupervised way to get the results.</description>
+    </item>
+    
+  </channel>
+</rss>
